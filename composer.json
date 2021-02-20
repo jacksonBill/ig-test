@@ -1,0 +1,9 @@
+{
+    "name": "roma/ig-stat",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "ext-json": "*"
+    }
+}
